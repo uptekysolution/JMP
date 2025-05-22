@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "key": "adhesive_less_rate",
+    "value": 80
+  },
+  {
+    "id": 2,
+    "key": "adhesive_rate",
+    "value": 90
+  },
+  {
+    "id": 3,
+    "key": "bopp_film_rate",
+    "value": 118
+  },
+  {
+    "id": 4,
+    "key": "brown_tape",
+    "value": 105
+  },
+  {
+    "id": 5,
+    "key": "coating_exp",
+    "value": 220
+  },
+  {
+    "id": 6,
+    "key": "color_tape",
+    "value": 250
+  },
+  {
+    "id": 7,
+    "key": "double_colour_printed",
+    "value": 225
+  },
+  {
+    "id": 8,
+    "key": "four_colour_printed",
+    "value": 350
+  },
+  {
+    "id": 9,
+    "key": "full_print",
+    "value": 1000
+  },
+  {
+    "id": 10,
+    "key": "milky_white",
+    "value": 160
+  },
+  {
+    "id": 11,
+    "key": "natural",
+    "value": 0
+  },
+  {
+    "id": 12,
+    "key": "packing_cost",
+    "value": 60
+  },
+  {
+    "id": 13,
+    "key": "profit",
+    "value": 10
+  },
+  {
+    "id": 14,
+    "key": "single_colour_printed",
+    "value": 150
+  },
+  {
+    "id": 15,
+    "key": "three_colour_printed",
+    "value": 300
+  },
+  {
+    "id": 16,
+    "key": "transparent",
+    "value": 0
+  },
+  {
+    "id": 17,
+    "key": "normal_paste_rate",
+    "value": 0
+  },
+  {
+    "id": 18,
+    "key": "waterproof_paste_rate",
+    "value": 15
+  },
+  {
+    "id": 19,
+    "key": "super_strong_paste_rate",
+    "value": 30
+  }
+]

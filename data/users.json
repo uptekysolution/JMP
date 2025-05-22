@@ -1,0 +1,20 @@
+[
+  {
+    "id": "admin",
+    "name": "Administrator",
+    "role": "admin",
+    "otp_created_at": null
+  },
+  {
+    "id": "employee",
+    "name": "Default Employee",
+    "role": "employee",
+    "otp_created_at": null
+  },
+  {
+    "id": "adm001",
+    "name": "Bob Johnson (Admin)",
+    "role": "admin",
+    "otp_created_at": null
+  }
+]
